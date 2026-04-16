@@ -7,9 +7,9 @@ Original file is located at
     https://colab.research.google.com/drive/1V0oQdbygpzo1gTj0xWN9OXXMp2bXkfCZ
 """
 
-!pip install feedparser
+pip install feedparser
 
-!pip install -q pillow feedparser openai
+pip install -q pillow feedparser openai
 
 import os
 from getpass import getpass
