@@ -2,7 +2,7 @@ name: Manchester United Daily News
 
 on:
   schedule:
-    - cron: "7 23 * * *"
+    - cron: "13 10 * * *"
   workflow_dispatch:
 
 jobs:
